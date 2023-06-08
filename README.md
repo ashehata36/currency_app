@@ -15,3 +15,10 @@
 
 ![simulator_screenshot_71B3346B-50E5-4C44-A468-9FF793DB07CB](https://github.com/ashehata36/currency_app/assets/86250858/07459054-8878-4853-ac70-9874e59baac4)
 ![simulator_screenshot_F0C4A08A-578D-4E62-B71F-C8F710D5B4D4](https://github.com/ashehata36/currency_app/assets/86250858/89ab7ef2-a5d9-44f8-b511-8327334891ed)
+
+### Installation
+
+1. Clone the repository:
+
+   ```shell
+   git clone https://github.com/ashehata36/currency_app.git
