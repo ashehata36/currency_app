@@ -28,7 +28,7 @@
     cd currency_app
 3. Install the dependencies:
     ```shell
-    cd currency_app
+    flutter pub get
 ### Installation
 
 1. Run the application:
